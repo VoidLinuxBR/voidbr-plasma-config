@@ -50,7 +50,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][24][Applets][27][Configuration][General]
-launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop
+launchers=applications:systemsettings.desktop,preferred://browser,applications:org.kde.konsole.desktop
 
 [Containments][24][Applets][28]
 immutability=1
@@ -143,4 +143,4 @@ AppletOrder=25;26;27;28;29;41;42
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=
+screenMapping=desktop:/void-install.desktop,0,192f8d0e-d8e1-46a2-8e65-d689a4075721
